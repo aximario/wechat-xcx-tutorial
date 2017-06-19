@@ -71,3 +71,46 @@
 ### 所有章节项目皆以分支管理，学员可根据情况切换源码 
 
 :clap: :clap: :clap: 实战即为以上随堂项目内容
+
+### 核心人员
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/pavelShen.png?s=150">
+        <br>
+        <a href="https://github.com/pavelShen">pavelShen</a>
+        <p></p>
+        <p></p>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/pangz1.png?s=150">
+        <br>
+        <a href="https://github.com/pangz1">pangz1</a>
+        <p></p>
+        <p></p>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/tinyuen.png?s=150">
+        <br>
+        <a href="https://github.com/tinyuen">tinyuen</a>
+        <p></p>
+        <p></p>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/roeis.png?s=150">
+        <br>
+        <a href="https://github.com/roeis">roeis</a>
+        <p></p>
+        <p></p>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/brucecham.png?s=150">
+        <br>
+        <a href="https://github.com/brucecham">brucecham</a>
+        <p></p>
+        <p></p>
+      </td>
+     </tr>
+  </tbody>
+</table>
