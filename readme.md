@@ -52,8 +52,9 @@
 ## <a>&sect; 教程大纲</a> 
 -  第一章：微信小程序起步--Hello World
    - [appID准备](./docs/ch1-0.md)
-   - [安装开发工具并启动项目](./docs/ch1-1.md)
+   - [工具安装](./docs/ch1-1.md)
    - [项目目录说明](./docs/ch1-3.md)
+   - [小试牛刀](./docs/ch1-4.md)
 - 第二章：列表页面开发
    - [路由配置](./docs/ch2-1.md)
    - [列表页面制作](./docs/ch2-2.md)
