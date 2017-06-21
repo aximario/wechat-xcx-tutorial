@@ -18,7 +18,7 @@
 <div style="page-break-after: always;"></div>
 
 ## <a>&sect; 阅读要求</a>
-> 读者需要具体但不限于以下技能
+> 读者需要具备但不限于以下技能
 - HTML
 - JavaScript `es6更佳`
 - CSS
