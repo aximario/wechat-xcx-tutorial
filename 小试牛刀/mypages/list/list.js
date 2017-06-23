@@ -1,13 +1,6 @@
-let App = getApp()
 Page({
   data: {
     arrList: []
-  },
-  onLoad(){
-    console.log( 'list page on launch' )
-  },
-  onPullDownRefresh(){
-    console.log('从顶部向下拉')
   },
   onReachBottom(){
     console.log('到达页面底部')
