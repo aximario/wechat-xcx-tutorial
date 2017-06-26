@@ -1,5 +1,6 @@
 <h2 align="center"> 🇨🇳 微信小程序课程，面向所有具备前端基础知识的同学 🇨🇳 </h2>  
-<hr>
+<br>  
+
 <div style="page-break-after: always;"></div>
 
 
@@ -33,21 +34,25 @@
 <div align="center">
   <img src="./docs/images/list.png" width="320">
  </div>  
+<br>  
 
 详情页面：以文章id为参数，获取文章详情 
 <div align="center">
   <img src="./docs/images/detail.png" width="320">
  </div>  
+<br>  
 
  详情页面，点击图片，展示大图
  <div align="center">
   <img src="./docs/images/showimg.png" width="320">
  </div>
- 
+<br>  
+
  详情页面，点击英文单词，查词典功能
  <div align="center">
   <img src="./docs/images/dictionary.png" width="320">
  </div>
+<br>  
 
 ## <a>&sect; 教程大纲</a> 
 -  第一章：小程序入门教程
