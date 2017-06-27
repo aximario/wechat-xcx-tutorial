@@ -88,37 +88,44 @@
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/pavelShen.png?s=150">
+        <img width="100" height="100" src="https://github.com/aximario.png?s=100">
+        <br>
+        <a href="https://github.com/aximario">aximario</a>
+        <p></p>
+        <p></p>
+      </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/pavelShen.png?s=100">
         <br>
         <a href="https://github.com/pavelShen">pavelShen</a>
         <p></p>
         <p></p>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/pangz1.png?s=150">
+        <img width="100" height="100" src="https://github.com/pangz1.png?s=100">
         <br>
         <a href="https://github.com/pangz1">pangz1</a>
         <p></p>
         <p></p>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/tinyuen.png?s=150">
+        <img width="100" height="100" src="https://github.com/tinyuen.png?s=100">
         <br>
         <a href="https://github.com/tinyuen">tinyuen</a>
         <p></p>
         <p></p>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/roeis.png?s=150">
+        <img width="100" height="100" src="https://github.com/roeis.png?s=100">
         <br>
         <a href="https://github.com/roeis">roeis</a>
         <p></p>
         <p></p>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/brucecham.png?s=150">
+        <img width="100" height="100" src="https://github.com/sqzhuyi.png?s=100">
         <br>
-        <a href="https://github.com/brucecham">brucecham</a>
+        <a href="https://github.com/sqzhuyi">sqzhuyi</a>
         <p></p>
         <p></p>
       </td>
